@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "user-shalzz-admin",
+      "email": "hemapriyaachandran06@gmail.com",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "name": "Shalzz",
+      "username": "shalzz",
+      "phone": "+91 8220911995",
+      "bio": "House Owner & Admin. Welcome to our shared apartment!",
+      "occupation": "Software Engineer",
+      "joinDate": "2026-07-01",
+      "roomNumber": "H-1109",
+      "socialLinks": {},
+      "emergencyContact": {
+        "name": "",
+        "phone": "",
+        "relation": ""
+      },
+      "role": "admin",
+      "status": "online",
+      "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Shalzz",
+      "coverUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+      "themePreference": "glass",
+      "accentColor": "#10b981",
+      "points": 100
+    }
+  ],
+  "teams": [],
+  "chores": [
+    {
+      "id": "chore-1782971136836",
+      "title": "Hall Clean",
+      "description": "Vacuum and mop the main hall floor.",
+      "frequency": "Every Week",
+      "priority": "medium",
+      "estimatedTime": "30 mins",
+      "color": "emerald"
+    }
+  ],
+  "schedules": [],
+  "gallery": [],
+  "albums": [],
+  "notifications": [
+    {
+      "id": "notif-1782971136837",
+      "userId": "all",
+      "title": "New Chore Published",
+      "message": "A new chore \"Hall Clean\" has been published. Frequency: Every Week, Priority: medium.",
+      "type": "chore",
+      "read": false,
+      "createdAt": "2026-07-02T05:45:36.837Z"
+    },
+    {
+      "id": "notif-1782970912058",
+      "userId": "all",
+      "title": "Welcome to Apartment Sync",
+      "message": "Shalzz (H-1109) has configured the apartment dashboard! Invite your roommates to get started.",
+      "type": "info",
+      "read": false,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1782971248045",
+      "title": "Wi-Fi Router Password & Bills",
+      "content": "Please check the shared bills folder for this month's fiber internet contribution.",
+      "authorId": "user-shalzz-admin",
+      "createdAt": "2026-07-01T12:00:00.000Z"
+    }
+  ],
+  "chatMessages": [],
+  "history": []
+}
